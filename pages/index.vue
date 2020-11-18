@@ -1,3 +1,8 @@
 <template>
-  <h1>Hello world!</h1>
+  <amplify-authenticator>
+    <div>
+      My App
+      <amplify-signout></amplify-signout>
+    </div>
+  </amplify-authenticator>
 </template>

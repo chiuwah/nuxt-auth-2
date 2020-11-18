@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-nuxtauth2-dev-10925-authRole",
+      "UnauthRoleArn": "arn:aws:iam::691690459175:role/amplify-nuxtauth2-dev-10925-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::691690459175:role/amplify-nuxtauth2-dev-10925-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-nuxtauth2-dev-10925-deployment",
+      "UnauthRoleName": "amplify-nuxtauth2-dev-10925-unauthRole",
+      "StackName": "amplify-nuxtauth2-dev-10925",
+      "StackId": "arn:aws:cloudformation:eu-west-1:691690459175:stack/amplify-nuxtauth2-dev-10925/5f8075d0-2932-11eb-95ba-02cfd85b9213",
+      "AmplifyAppId": "d3eao4gkxwtwmr"
+    },
+    "categories": {
+      "auth": {
+        "nuxtauth22e66e9c2": {}
+      }
+    }
+  }
+}
