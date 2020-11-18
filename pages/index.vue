@@ -1,7 +1,7 @@
 <template>
   <amplify-authenticator>
     <div>
-      My App
+      My App - test
       <amplify-signout></amplify-signout>
     </div>
   </amplify-authenticator>
