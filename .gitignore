@@ -1,6 +1,7 @@
 .nuxt
 .vscode
 node_modules
+package-lock.json
 
 #amplify
 amplify/\#current-cloud-backend
