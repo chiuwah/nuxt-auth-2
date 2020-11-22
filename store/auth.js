@@ -38,5 +38,17 @@ export const actions = {
         const user = await Auth.signIn(email, password)
         commit('set', user)
         return user
+    },
+
+    async login({ commit }, { email, password }) {
+        const user = await Auth.signIn(email, password)
+        commit('set', user)
+        return user
+    },
+    
+    async logout({ commit }) {
+        await Auth.signOut()
+        commit('set', null)
     }
+
 }
